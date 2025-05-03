@@ -1,0 +1,6 @@
+@PymeAutomation.API_HostAddress = http://localhost:5057
+
+GET {{PymeAutomation.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
